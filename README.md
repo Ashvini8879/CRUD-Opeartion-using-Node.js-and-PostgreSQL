@@ -123,7 +123,8 @@ employee-crud-express/
 ├── index.js          # Main server file
 ├── package.json
 ├── package-lock.json
-├── OUTPUT.pdf
+├── OUTPUT.pdf        # View the OUTPUT.pdf file to see the screenshots
 └── README.md
 
 ```
+ 
